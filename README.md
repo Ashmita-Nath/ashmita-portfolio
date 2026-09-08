@@ -34,8 +34,6 @@ category section reads from that file.
 
 ## Portfolio Screenshot 
 
-## Preview
-
 ![Portfolio Screenshot](./PF.png)
 
 ## Live Demo: [Here ⬅️](https://ashmita-portfolio-iota.vercel.app)
