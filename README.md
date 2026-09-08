@@ -36,8 +36,8 @@ category section reads from that file.
 
 ## Preview
 
-![Portfolio Screenshot](./pf.png)
+![Portfolio Screenshot](./PF.png)
 
-## Live Demo: [ashmita-portfolio-iota.vercel.app](https://ashmita-portfolio-iota.vercel.app)
-## Live demo : [https://ashmita-portfolio-iota.vercel.app]
+## Live Demo: [Here ⬅️](https://ashmita-portfolio-iota.vercel.app)
+
 
