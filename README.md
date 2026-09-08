@@ -32,3 +32,6 @@ public/
 To edit or add a project, update `src/data/projects.ts` — every card, filter, and
 category section reads from that file.
 
+
+## Live demo : [https://ashmita-portfolio-iota.vercel.app]
+
